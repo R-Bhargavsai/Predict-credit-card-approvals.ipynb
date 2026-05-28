@@ -33,12 +33,6 @@ Despite achieving a misleading **90.00% overall Accuracy Score**, the diagnostic
 To evolve this framework for true predictive capability, subsequent variations will incorporate **SMOTE (Synthetic Minority Over-sampling Technique)** and transition into non-linear ensemble frameworks like **Random Forests** or **XGBoost**.
 
 ---
-
-## ⚙️ Requirements & Installation
+Requirements & Installation
 
 Make sure you have Python installed along with the primary numerical and tracking packages.
-
-### 1. Clone the repository
-```bash
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
-cd YOUR_REPOSITORY_NAME
